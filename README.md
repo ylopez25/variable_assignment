@@ -14,39 +14,39 @@ Age Calculator:
 ## Problem Two
 
 Snack Supply Calculator:
-    * Store your current age in a variable.
-    * Store a maximum age in a variable.
-    * Store an estimated snack amount per day (as a number).
-    * Calculate how many snacks you would eat total, from your current age until the maximum age.
-    * Log the result to the screen like this: "You will need `snackNumber` to last you until the age of `maxAge`".
+ * Store your current age in a variable.
+ * Store a maximum age in a variable.
+ * Store an estimated snack amount per day (as a number).
+ * Calculate how many snacks you would eat total, from your current age until the maximum age.
+ * Log the result to the screen like this: "You will need `snackNumber` to last you until the age of `maxAge`".
 
 ## Problem Three
 
 Calculate properties of a circle, using the definitions [here](http://math2.org/math/geometry/circles.htm).
-    * Store a radius into a variable.
-    * Calculate the circumference based on the radius, and log "The circumference is `circumferenceResult`".
-    * Calculate the area based on the radius, and log "The area is `areaOfCircle`".
-    * Hint: https://www.w3schools.com/jsref/jsref_pi.asp
+ * Store a radius into a variable.
+ * Calculate the circumference based on the radius, and log "The circumference is `circumferenceResult`".
+ * Calculate the area based on the radius, and log "The area is `areaOfCircle`".
+ * Hint: https://www.w3schools.com/jsref/jsref_pi.asp
 
 ## Problem Four
 
 Temperature Converter:
-    * Store a celsius temperature into a variable.
-    * Convert it to fahrenheit and output "`tempInCelcius`°C is `tempInFahrenheit`°F".
-    * Now store a fahrenheit temperature into a variable.
-    * Convert it to celsius and output "`tempInFahrenheit`°F is `tempInCelcius`°C."
+ * Store a celsius temperature into a variable.
+ * Convert it to fahrenheit and output "`tempInCelcius`°C is `tempInFahrenheit`°F".
+ * Now store a fahrenheit temperature into a variable.
+ * Convert it to celsius and output "`tempInFahrenheit`°F is `tempInCelcius`°C."
 
 
 ## Problem Five
 
 Grades Calculator:
-    * Store Alices's grade on a test to a variable
-    * Store Bob's grade on a test to a variable
-    * Store Cam's grade on a test to a variable
-    * Find the average grade of all students
-    * Store Dee's grade on a test to a variable
-    * Find the average grade of all students
-    * Print out if Dee's grade is higher than the class average
+ * Store Alices's grade on a test to a variable
+ * Store Bob's grade on a test to a variable
+ * Store Cam's grade on a test to a variable
+ * Find the average grade of all students
+ * Store Dee's grade on a test to a variable
+ * Find the average grade of all students
+ * Print out if Dee's grade is higher than the class average
 
 ## Problem Six: Predict the output
 
