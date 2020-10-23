@@ -3,7 +3,7 @@
 // ## Problem One
 
 // Age Calculator:
-//  * Store your birth year in a variable.
+//  * Store your birth year in a constant variable.
 //  * Store a future year in a variable.
 //  * Calculate your 2 possible ages for that year based on the stored values.
 //  * For example, if you were born in 1988, then in 2026 you'll be either 37 or 38, depending on what month it is in 2026.
@@ -13,14 +13,14 @@
 
 // Snack Supply Calculator:
 //  * Store your current age in a variable.
-//  * Store a maximum age in a variable.
+//  * Store a maximum age in a constant variable.
 //  * Store an estimated snack amount per day (as a number).
 //  * Calculate how many snacks you would eat total, from your current age until the maximum age.
 //  * Log the result to the screen like this: "You will need `snackNumber` to last you until the age of `maxAge`".
 
 // ## Problem Three
 
-// Calculate properties of a circle, using the definitions [here](http://math2.org/math/geometry/circles.htm).
+// Calculate properties of a circle, using the definitions: http://math2.org/math/geometry/circles.htm 
 //  * Store a radius into a variable.
 //  * Calculate the circumference based on the radius, and log "The circumference is `circumferenceResult`".
 //  * Calculate the area based on the radius, and log "The area is `areaOfCircle`".
@@ -30,9 +30,9 @@
 
 // Temperature Converter:
 //  * Store a celsius temperature into a variable.
-//  * Convert it to fahrenheit and output "`tempInCelcius`°C is `tempInFahrenheit`°F".
+//  * Convert it to fahrenheit and output "`tempInCelsius`°C is `tempInFahrenheit`°F".
 //  * Now store a fahrenheit temperature into a variable.
-//  * Convert it to celsius and output "`tempInFahrenheit`°F is `tempInCelcius`°C."
+//  * Convert it to celsius and output "`tempInFahrenheit`°F is `tempInCelsius`°C."
 
 
 // ## Problem Five
