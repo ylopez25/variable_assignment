@@ -46,7 +46,79 @@
 //  * Find the average grade of all students
 //  * Print out if Dee's grade is higher than the class average
 
-// ## Problem Six: Predict the output
+// ## Problem Six
+
+// Find the last number:
+//  * You are given a number a. Print the last digit of a.
+// Example 1
+// Input: 
+// a = 123
+// Output:
+// 3
+//
+// Example 2
+// Input: 
+// a = 337
+// Output:
+// 7
+
+// Hint:
+// Use the remainder % operator.
+
+// ## Problem Seven
+
+// Alice's Age
+// x years from now Alice will be y times older than her brother Bob. Bob is 12 years old. How old is Alice?
+
+// Example 1
+// Input: 
+// x = 3
+// y = 2
+// bob = 12
+
+// Expected values: 
+// alice = 27
+
+// Example 2
+// Input: 
+// x = 1
+// y = 3
+// bob = 12
+
+// Expected values: 
+// alice = 38
+
+// Hint:
+// alice + x = y * (bob + x)
+// Solve for alice
+
+// ## Problem Eight
+
+// Cat and Dog Percentages
+// An animal daycare consists of `numberOfCats` cats and `numberOfDogs` dogs.
+// Print the percentage of dogs in the daycare followed by the percentage of cats in the class. The percentage should be printed rounded down to the nearest integer. For example 33.333333333333 will be printed as 33.
+// Example
+// Input: 
+// numberOfCats = 20  
+// numberOfDogs = 60
+
+// Output:
+// 25: percentage of cats
+// 75: percentage of dogs
+
+// ## Problem Nine
+
+// Leap Year Calculator
+// Given a year, determine if it's a leap year.  
+// A leap year is a year containing an extra day. It has 366 days instead of the normal 365 days. 
+// The extra day is added in February, which has 29 days instead of the normal 28 days. 
+// Leap years occur every 4 years. 2012 was a leap year and 2016 will also be a leap year. 
+// The above rule is valid except that every 100 years special rules apply. 
+// Years that are divisible by 100 are not leap years if they are not also divisible by 400. 
+// For example 1900 was not a leap year, but 2000 was. Print "Leap year!" or "Not a leap year!" depending on the year you are provided.
+
+
+// ## Problem Ten: Predict the output
 
 // For this section write what you think will be logged as a comment next to `console.log` like so: `console.log('Cat') //'Cat'` before running the code. Then execute your file and compare with your prediction.
 
